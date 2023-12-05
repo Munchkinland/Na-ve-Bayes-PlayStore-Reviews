@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook (`NaiveBayes.ipynb`) that implements
   - pandas
   - scikit-learn
   - nltk
-  - 
+    
 - **Dataset:** The notebook uses the Play Store reviews dataset, which can be accessed [here](https://raw.githubusercontent.com/4GeeksAcademy/naive-bayes-project-tutorial/main/playstore_reviews.csv).
 
 ## Dataset Details
