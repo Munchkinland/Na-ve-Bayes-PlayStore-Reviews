@@ -1,4 +1,4 @@
-# Naive Bayes Classifier for Playsotre Reviews Analysis
+# Naive Bayes Classifier for Playstore Reviews Analysis
 
 ![image](https://github.com/Munchkinland/Naive-Bayes-PlayStore-Reviews/assets/92251234/d52020b2-da3e-4b0b-921d-91a6f05ae737)
 
