@@ -1,4 +1,6 @@
-# Naive Bayes Classifier for Sentiment Analysis
+# Naive Bayes Classifier for Playsotre Reviews Analysis
+
+![image](https://github.com/Munchkinland/Naive-Bayes-PlayStore-Reviews/assets/92251234/d52020b2-da3e-4b0b-921d-91a6f05ae737)
 
 This repository contains a Jupyter notebook (`NaiveBayes.ipynb`) that implements a Naive Bayes classifier for sentiment analysis. The classifier is trained on a dataset of Play Store reviews and predicts the sentiment (positive or negative) of new reviews.
 
